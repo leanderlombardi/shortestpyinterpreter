@@ -5,6 +5,6 @@ This is the shortest possible python interpreter.
 
 ### Usage
 
-```cmd
+```html
 python3 interpreter.py <path-to-file>
 ```
